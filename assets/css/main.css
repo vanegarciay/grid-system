@@ -1,5 +1,5 @@
 body{
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Indie Flower', cursive;
 }
 .caja{
 	background-color: #9B0022;
@@ -27,4 +27,22 @@ header{
 	position: absolute;
 	top: 40%;
 	left: 35%;
+}
+
+.cat{
+	background-image: url(http://3.bp.blogspot.com/-bjm5m43KVFY/TrxJ63H5soI/AAAAAAAAAWU/ah0rr0e7B_M/s1600/fondo+verde.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 50vh;
+}
+
+.cat .container{
+	background-color: rgba(255,255,255, 0.2);
+	position: relative;
+	height: 50vh;
+}
+
+button{
+	float: right;
 }
